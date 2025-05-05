@@ -1,1 +1,4 @@
 deyisiklik edeceme qadan alm
+
+
+elaveler var fetch ile deyiklik etdim goster
